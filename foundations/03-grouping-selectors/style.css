@@ -1,0 +1,15 @@
+.leftBtn,
+.rightBtn {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.leftBtn {
+    background-color: black;
+    color: white;
+}
+
+.rightBtn {
+    background-color: yellow;
+
+}
