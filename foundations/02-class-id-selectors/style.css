@@ -1,0 +1,18 @@
+.oddElement {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#fourthElement {
+    background-color: lightgreen;
+    font-weight: bold;
+}
