@@ -1,0 +1,10 @@
+.avatar.proportioned {
+    width: 300px;
+    height: fit-content; 
+    /* fit-content automatically fit to the hardcoded width or the height of */
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
