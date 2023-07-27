@@ -9,35 +9,34 @@ body {
 }
 
 .para {
-  font-size: 22px;
+  font-size: 34px;
 }
 
-.para.small-para {
-  font-size: 14px;
+.small-para {
+  font-size: 22px;
+  font-weight: 800;
 }
+
+.button.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
 
 .button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
-#confirm-button {
-  background-color: green;
-  color: white;
-  font-weight: bold;
-}
-
-#cancel-button {
-  background-color: rgb(255, 255, 255);
+.text .child {
   color: rgb(0, 0, 0);
-}
-
-.text {
-  color: black;
-  font-size: 22px;
-}
-
-.child {
   font-weight: bold;
-  font-size: 12px;
+  font-size: 14px;
 }
 
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 0;
+}
