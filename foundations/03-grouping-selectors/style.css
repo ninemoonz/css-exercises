@@ -1,13 +1,29 @@
+<<<<<<< HEAD
 button {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
 .click-me {
+=======
+.leftBtn,
+.rightBtn {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.leftBtn {
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
     background-color: black;
     color: white;
 }
 
+<<<<<<< HEAD
 .no-click-me {
     background-color: yellow;
+=======
+.rightBtn {
+    background-color: yellow;
+
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
 }

@@ -9,6 +9,7 @@ body {
 }
 
 .para {
+<<<<<<< HEAD
   font-size: 22px;
 }
 
@@ -23,11 +24,23 @@ body {
 }
 
 .confirm {
+=======
+  font-size: 34px;
+}
+
+.small-para {
+  font-size: 22px;
+  font-weight: 800;
+}
+
+.button.confirm {
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
   background: green;
   color: white;
   font-weight: bold;
 } 
 
+<<<<<<< HEAD
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
@@ -40,3 +53,22 @@ div .child {
   font-weight: 800;
 }
 
+=======
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.text .child {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 14px;
+}
+
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 0;
+}
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f

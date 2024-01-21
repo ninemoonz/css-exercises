@@ -14,6 +14,7 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+<<<<<<< HEAD
   padding: 8px 8px;
 }
 
@@ -25,19 +26,45 @@ body {
 
 .content {
   margin: 8px 0px;
+=======
+  padding: 8px;
+}
+
+.title {
+  background: #e3f4ff;
+  margin: 0px 0px 8px 0px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.content {
+  background: #e3f4ff;
+  margin: 0px 0px 8px 0px;
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
   padding: 16px 8px;
 }
 
 .button-container {
+<<<<<<< HEAD
   text-align: center;
   padding: 8px;
   
+=======
+  background: #e3f4ff;
+  padding: 8px;
+  text-align: center;
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
 }
 
 button {
+  display: block;
   background: white;
   border: 1px solid #eee;
   padding: 8px 24px;
+<<<<<<< HEAD
   display:block;
   margin: 0 auto;
+=======
+  margin: auto;
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
 }

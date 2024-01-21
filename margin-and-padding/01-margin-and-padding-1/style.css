@@ -12,6 +12,10 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
+<<<<<<< HEAD
+=======
+  padding: 32px;
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
   margin: 12px;
 }
 
@@ -27,7 +31,12 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
+<<<<<<< HEAD
   margin-left: auto;
   
   
+=======
+  padding: 32px;
+  margin-left: 330px;
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
 }

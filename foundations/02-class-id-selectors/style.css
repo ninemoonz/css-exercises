@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 .odds {
     background-color: pink;
     font-family: Verdana, DejaVu Sans, sans-serif;   
 }
 
 #two {
+=======
+.oddElement {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#secondElement {
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
     color: blue;
     font-size: 36px;
 }
 
+<<<<<<< HEAD
 .odds.three {
     font-size: 24px;
 }
@@ -15,5 +25,13 @@
 .four {
     background-color: lightgreen;
     font-size: 24px;
+=======
+.cooler {
+    font-size: 24px;
+}
+
+#fourthElement {
+    background-color: lightgreen;
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
     font-weight: bold;
 }
