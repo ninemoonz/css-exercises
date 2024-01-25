@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: sans-serif, Helvetica, Arial;
 }
 
 .para,
@@ -9,6 +9,22 @@ body {
 }
 
 .para {
+<<<<<<< HEAD
+  font-size: 22px;
+}
+
+.small-para {
+  font-size: 14px;
+}
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.confirm {
+=======
   font-size: 34px;
 }
 
@@ -18,11 +34,26 @@ body {
 }
 
 .button.confirm {
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
   background: green;
   color: white;
   font-weight: bold;
 } 
 
+<<<<<<< HEAD
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
+
+div .child {
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+=======
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
@@ -40,3 +71,4 @@ div.text {
   font-size: 22px;
   font-weight: 0;
 }
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f

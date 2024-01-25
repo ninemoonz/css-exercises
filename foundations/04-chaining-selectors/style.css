@@ -1,9 +1,17 @@
+<<<<<<< HEAD
+/* Add CSS Styling */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+=======
 .avatar.proportioned {
     width: 300px;
     height: fit-content; 
     /* fit-content automatically fit to the hardcoded width or the height of */
 }
 
+>>>>>>> 4b66881c04bbebb26ba2d4a5910a6663225c4f8f
 .avatar.distorted {
     width: 200px;
     height: 400px;
